@@ -1,0 +1,38 @@
+.accordion-button{
+   background-color:rgb(165, 231, 145)
+}
+.menu-link{
+    text-decoration: none;
+    color:white;
+    display: block;
+    background-color: rgb(152, 214, 133);
+    margin-top: 0.5rem;
+    padding: 1rem;
+    font-size: 1.2rem;
+    font-weight: 900;
+    border-radius: 5px;
+}
+.menu-link:hover{
+    color:rgb(250, 210, 157);
+}
+body{
+    background-image: linear-gradient(to right top, #b7d96c, #c7e389, #d6eca6, #e6f6c3, #f5ffdf);
+}
+.text-logo{
+    margin-top: 20px;
+    text-align: center;
+    font-family: 'Viaoda Libre', cursive;
+}
+.header{
+    margin-bottom: 2rem;
+    background-color: #ffffff;
+    box-shadow: 0 0 20px green;
+    padding-bottom: 1rem;
+    padding-top: 1rem;
+}
+.wrap-card {
+    padding-bottom: 2rem;
+}
+.card{
+    box-shadow: 0px 0px 3px green;
+}
